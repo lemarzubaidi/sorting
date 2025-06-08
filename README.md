@@ -1,3 +1,3 @@
 # sorting
-insertion sort
+insertion sort -
 merge sort
